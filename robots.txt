@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hugo_de_brito.github.io/al-folio/sitemap.xml
+Sitemap: https://hugo2brito.github.io/sitemap.xml
